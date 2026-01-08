@@ -1,0 +1,1166 @@
+{
+  "topic": "Города Европы",
+  "root_question": "Города Европы",
+  "questions": [
+    {
+      "id": "MSCO.1",
+      "text": "Какие сооружения и структуры составляют Города Европы?",
+      "archetype_code": "MSCO",
+      "priority": 5,
+      "keywords": [
+        "здание",
+        "сооружение",
+        "архитектура",
+        "структура",
+        "конструкция",
+        "объект"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MSCO.2",
+      "text": "Какая архитектура характерна для Города Европы?",
+      "archetype_code": "MSCO",
+      "priority": 5,
+      "keywords": [
+        "здание",
+        "сооружение",
+        "архитектура",
+        "структура",
+        "конструкция",
+        "объект"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MSCO.3",
+      "text": "Какие типы зданий встречаются в Города Европы?",
+      "archetype_code": "MSCO",
+      "priority": 5,
+      "keywords": [
+        "здание",
+        "сооружение",
+        "архитектура",
+        "структура",
+        "конструкция",
+        "объект"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MSCO.4",
+      "text": "Какие исторические архитектурные стили представлены?",
+      "archetype_code": "MSCO",
+      "priority": 5,
+      "keywords": [
+        "здание",
+        "сооружение",
+        "архитектура",
+        "структура",
+        "конструкция",
+        "объект"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MSCO.5",
+      "text": "Какие современные архитектурные решения используются?",
+      "archetype_code": "MSCO",
+      "priority": 5,
+      "keywords": [
+        "здание",
+        "сооружение",
+        "архитектура",
+        "структура",
+        "конструкция",
+        "объект"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MSCO.6",
+      "text": "Какие знаковые здания и памятники есть?",
+      "archetype_code": "MSCO",
+      "priority": 5,
+      "keywords": [
+        "здание",
+        "сооружение",
+        "архитектура",
+        "структура",
+        "конструкция",
+        "объект"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MDEF.1",
+      "text": "Кто населяет или использует Города Европы?",
+      "archetype_code": "MDEF",
+      "priority": 4,
+      "keywords": [
+        "организм",
+        "существо",
+        "животное",
+        "растение",
+        "жизнь",
+        "биология"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MDEF.2",
+      "text": "Какие живые существа связаны с Города Европы?",
+      "archetype_code": "MDEF",
+      "priority": 4,
+      "keywords": [
+        "организм",
+        "существо",
+        "животное",
+        "растение",
+        "жизнь",
+        "биология"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MDEF.3",
+      "text": "Какая демография характерна для Города Европы?",
+      "archetype_code": "MDEF",
+      "priority": 4,
+      "keywords": [
+        "организм",
+        "существо",
+        "животное",
+        "растение",
+        "жизнь",
+        "биология"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MDEF.4",
+      "text": "Какой этнический и культурный состав?",
+      "archetype_code": "MDEF",
+      "priority": 4,
+      "keywords": [
+        "организм",
+        "существо",
+        "животное",
+        "растение",
+        "жизнь",
+        "биология"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MDCO.1",
+      "text": "Какие технические системы функционируют в Города Европы?",
+      "archetype_code": "MDCO",
+      "priority": 5,
+      "keywords": [
+        "машина",
+        "техника",
+        "система",
+        "оборудование",
+        "транспорт",
+        "устройство"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MDCO.2",
+      "text": "Какой транспорт используется в Города Европы?",
+      "archetype_code": "MDCO",
+      "priority": 5,
+      "keywords": [
+        "машина",
+        "техника",
+        "система",
+        "оборудование",
+        "транспорт",
+        "устройство"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MDCO.3",
+      "text": "Какие машины и оборудование присутствуют?",
+      "archetype_code": "MDCO",
+      "priority": 5,
+      "keywords": [
+        "машина",
+        "техника",
+        "система",
+        "оборудование",
+        "транспорт",
+        "устройство"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MDCO.4",
+      "text": "Какие транспортные системы развиты?",
+      "archetype_code": "MDCO",
+      "priority": 5,
+      "keywords": [
+        "машина",
+        "техника",
+        "система",
+        "оборудование",
+        "транспорт",
+        "устройство"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MDCO.5",
+      "text": "Какая техническая инфраструктура существует?",
+      "archetype_code": "MDCO",
+      "priority": 5,
+      "keywords": [
+        "машина",
+        "техника",
+        "система",
+        "оборудование",
+        "транспорт",
+        "устройство"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MDCF.1",
+      "text": "Как Города Европы функционирует как сложная система?",
+      "archetype_code": "MDCF",
+      "priority": 5,
+      "keywords": [
+        "город",
+        "система",
+        "динамика",
+        "поток",
+        "процесс",
+        "изменение"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MDCF.2",
+      "text": "Какова динамика и потоки в Города Европы?",
+      "archetype_code": "MDCF",
+      "priority": 5,
+      "keywords": [
+        "город",
+        "система",
+        "динамика",
+        "поток",
+        "процесс",
+        "изменение"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MDCF.3",
+      "text": "Как организованы части Города Европы?",
+      "archetype_code": "MDCF",
+      "priority": 5,
+      "keywords": [
+        "город",
+        "система",
+        "динамика",
+        "поток",
+        "процесс",
+        "изменение"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MDCF.4",
+      "text": "Какие процессы происходят в системе?",
+      "archetype_code": "MDCF",
+      "priority": 5,
+      "keywords": [
+        "город",
+        "система",
+        "динамика",
+        "поток",
+        "процесс",
+        "изменение"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MDCF.5",
+      "text": "Как части взаимодействуют между собой?",
+      "archetype_code": "MDCF",
+      "priority": 5,
+      "keywords": [
+        "город",
+        "система",
+        "динамика",
+        "поток",
+        "процесс",
+        "изменение"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ASEO.1",
+      "text": "Какие ключевые показатели характеризуют Города Европы?",
+      "archetype_code": "ASEO",
+      "priority": 4,
+      "keywords": [
+        "факт",
+        "данные",
+        "статистика",
+        "число",
+        "константа",
+        "показатель"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ASEO.2",
+      "text": "Какие статистические данные доступны по Города Европы?",
+      "archetype_code": "ASEO",
+      "priority": 4,
+      "keywords": [
+        "факт",
+        "данные",
+        "статистика",
+        "число",
+        "константа",
+        "показатель"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ASEO.3",
+      "text": "Какие константы и факты определяют Города Европы?",
+      "archetype_code": "ASEO",
+      "priority": 4,
+      "keywords": [
+        "факт",
+        "данные",
+        "статистика",
+        "число",
+        "константа",
+        "показатель"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ASEO.4",
+      "text": "Какие числовые характеристики важны?",
+      "archetype_code": "ASEO",
+      "priority": 4,
+      "keywords": [
+        "факт",
+        "данные",
+        "статистика",
+        "число",
+        "константа",
+        "показатель"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ASEO.5",
+      "text": "Какие измеримые параметры существуют?",
+      "archetype_code": "ASEO",
+      "priority": 4,
+      "keywords": [
+        "факт",
+        "данные",
+        "статистика",
+        "число",
+        "константа",
+        "показатель"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ASCF.1",
+      "text": "Какая культура характерна для Города Европы?",
+      "archetype_code": "ASCF",
+      "priority": 5,
+      "keywords": [
+        "культура",
+        "традиция",
+        "искусство",
+        "религия",
+        "обычай",
+        "ценность"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ASCF.2",
+      "text": "Какие традиции связаны с Города Европы?",
+      "archetype_code": "ASCF",
+      "priority": 5,
+      "keywords": [
+        "культура",
+        "традиция",
+        "искусство",
+        "религия",
+        "обычай",
+        "ценность"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ASCF.3",
+      "text": "Какое искусство представлено в Города Европы?",
+      "archetype_code": "ASCF",
+      "priority": 5,
+      "keywords": [
+        "культура",
+        "традиция",
+        "искусство",
+        "религия",
+        "обычай",
+        "ценность"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ASCF.4",
+      "text": "Какая культурная жизнь развита?",
+      "archetype_code": "ASCF",
+      "priority": 5,
+      "keywords": [
+        "культура",
+        "традиция",
+        "искусство",
+        "религия",
+        "обычай",
+        "ценность"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ASCF.5",
+      "text": "Какие традиции и обычаи существуют?",
+      "archetype_code": "ASCF",
+      "priority": 5,
+      "keywords": [
+        "культура",
+        "традиция",
+        "искусство",
+        "религия",
+        "обычай",
+        "ценность"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ASCF.6",
+      "text": "Какие культурные особенности проявляются?",
+      "archetype_code": "ASCF",
+      "priority": 5,
+      "keywords": [
+        "культура",
+        "традиция",
+        "искусство",
+        "религия",
+        "обычай",
+        "ценность"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ADCF.1",
+      "text": "Какие социальные процессы происходят в Города Европы?",
+      "archetype_code": "ADCF",
+      "priority": 5,
+      "keywords": [
+        "общество",
+        "социум",
+        "экономика",
+        "политика",
+        "рынок",
+        "сообщество"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ADCF.2",
+      "text": "Какова социальная динамика Города Европы?",
+      "archetype_code": "ADCF",
+      "priority": 5,
+      "keywords": [
+        "общество",
+        "социум",
+        "экономика",
+        "политика",
+        "рынок",
+        "сообщество"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ADCF.3",
+      "text": "Как общество организовано в Города Европы?",
+      "archetype_code": "ADCF",
+      "priority": 5,
+      "keywords": [
+        "общество",
+        "социум",
+        "экономика",
+        "политика",
+        "рынок",
+        "сообщество"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ADCF.4",
+      "text": "Какие экономические процессы происходят?",
+      "archetype_code": "ADCF",
+      "priority": 5,
+      "keywords": [
+        "общество",
+        "социум",
+        "экономика",
+        "политика",
+        "рынок",
+        "сообщество"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ADCF.5",
+      "text": "Какая политическая ситуация?",
+      "archetype_code": "ADCF",
+      "priority": 5,
+      "keywords": [
+        "общество",
+        "социум",
+        "экономика",
+        "политика",
+        "рынок",
+        "сообщество"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ADCF.6",
+      "text": "Какие социальные явления наблюдаются?",
+      "archetype_code": "ADCF",
+      "priority": 5,
+      "keywords": [
+        "общество",
+        "социум",
+        "экономика",
+        "политика",
+        "рынок",
+        "сообщество"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MSCF.1",
+      "text": "Какая природная среда окружает Города Европы?",
+      "archetype_code": "MSCF",
+      "priority": 3,
+      "keywords": [
+        "природа",
+        "ландшафт",
+        "экосистема",
+        "среда",
+        "местность",
+        "территория"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MSCF.2",
+      "text": "Как ландшафт интегрирован в Города Европы?",
+      "archetype_code": "MSCF",
+      "priority": 3,
+      "keywords": [
+        "природа",
+        "ландшафт",
+        "экосистема",
+        "среда",
+        "местность",
+        "территория"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MSCF.3",
+      "text": "Какие экосистемы связаны с Города Европы?",
+      "archetype_code": "MSCF",
+      "priority": 3,
+      "keywords": [
+        "природа",
+        "ландшафт",
+        "экосистема",
+        "среда",
+        "местность",
+        "территория"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MSCF.4",
+      "text": "Какие природные особенности характерны?",
+      "archetype_code": "MSCF",
+      "priority": 3,
+      "keywords": [
+        "природа",
+        "ландшафт",
+        "экосистема",
+        "среда",
+        "местность",
+        "территория"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ASEF.1",
+      "text": "Какие символы и образы ассоциируются с Города Европы?",
+      "archetype_code": "ASEF",
+      "priority": 3,
+      "keywords": [
+        "символ",
+        "образ",
+        "паттерн",
+        "эмоция",
+        "ощущение",
+        "смысл"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ASEF.2",
+      "text": "Какие эмоции и ощущения вызывает Города Европы?",
+      "archetype_code": "ASEF",
+      "priority": 3,
+      "keywords": [
+        "символ",
+        "образ",
+        "паттерн",
+        "эмоция",
+        "ощущение",
+        "смысл"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ASEF.3",
+      "text": "Какая символика связана с Города Европы?",
+      "archetype_code": "ASEF",
+      "priority": 3,
+      "keywords": [
+        "символ",
+        "образ",
+        "паттерн",
+        "эмоция",
+        "ощущение",
+        "смысл"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ASEF.4",
+      "text": "Какие культурные архетипы проявляются?",
+      "archetype_code": "ASEF",
+      "priority": 3,
+      "keywords": [
+        "символ",
+        "образ",
+        "паттерн",
+        "эмоция",
+        "ощущение",
+        "смысл"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ASCO.1",
+      "text": "Какие теории применимы к Города Европы?",
+      "archetype_code": "ASCO",
+      "priority": 3,
+      "keywords": [
+        "теория",
+        "наука",
+        "концепция",
+        "модель",
+        "система знаний",
+        "учение"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ASCO.2",
+      "text": "Какие научные концепции объясняют Города Европы?",
+      "archetype_code": "ASCO",
+      "priority": 3,
+      "keywords": [
+        "теория",
+        "наука",
+        "концепция",
+        "модель",
+        "система знаний",
+        "учение"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ASCO.3",
+      "text": "Какие модели описывают Города Европы?",
+      "archetype_code": "ASCO",
+      "priority": 3,
+      "keywords": [
+        "теория",
+        "наука",
+        "концепция",
+        "модель",
+        "система знаний",
+        "учение"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ASCO.4",
+      "text": "Какие теоретические основы существуют?",
+      "archetype_code": "ASCO",
+      "priority": 3,
+      "keywords": [
+        "теория",
+        "наука",
+        "концепция",
+        "модель",
+        "система знаний",
+        "учение"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ADCO.1",
+      "text": "Какие программные системы используются в Города Европы?",
+      "archetype_code": "ADCO",
+      "priority": 3,
+      "keywords": [
+        "программа",
+        "план",
+        "проект",
+        "стратегия",
+        "система",
+        "разработка"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ADCO.2",
+      "text": "Какова цифровизация Города Европы?",
+      "archetype_code": "ADCO",
+      "priority": 3,
+      "keywords": [
+        "программа",
+        "план",
+        "проект",
+        "стратегия",
+        "система",
+        "разработка"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ADCO.3",
+      "text": "Какие алгоритмические системы управляют Города Европы?",
+      "archetype_code": "ADCO",
+      "priority": 3,
+      "keywords": [
+        "программа",
+        "план",
+        "проект",
+        "стратегия",
+        "система",
+        "разработка"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ADCO.4",
+      "text": "Какие IT-системы развиты?",
+      "archetype_code": "ADCO",
+      "priority": 3,
+      "keywords": [
+        "программа",
+        "план",
+        "проект",
+        "стратегия",
+        "система",
+        "разработка"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ADCO.5",
+      "text": "Какие цифровые решения применяются?",
+      "archetype_code": "ADCO",
+      "priority": 3,
+      "keywords": [
+        "программа",
+        "план",
+        "проект",
+        "стратегия",
+        "система",
+        "разработка"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MSEO.1",
+      "text": "Какие базовые материалы используются в Города Европы?",
+      "archetype_code": "MSEO",
+      "priority": 2,
+      "keywords": [
+        "материал",
+        "элемент",
+        "вещество",
+        "атом",
+        "молекула",
+        "химический элемент"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MSEO.2",
+      "text": "Из каких элементов состоит Города Европы?",
+      "archetype_code": "MSEO",
+      "priority": 2,
+      "keywords": [
+        "материал",
+        "элемент",
+        "вещество",
+        "атом",
+        "молекула",
+        "химический элемент"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MSEO.3",
+      "text": "Какие физические свойства важны для Города Европы?",
+      "archetype_code": "MSEO",
+      "priority": 2,
+      "keywords": [
+        "материал",
+        "элемент",
+        "вещество",
+        "атом",
+        "молекула",
+        "химический элемент"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MDEO.1",
+      "text": "Какие базовые механизмы обеспечивают работу Города Европы?",
+      "archetype_code": "MDEO",
+      "priority": 2,
+      "keywords": [
+        "механизм",
+        "устройство",
+        "инструмент",
+        "деталь",
+        "компонент"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MDEO.2",
+      "text": "Какие инфраструктурные элементы необходимы для Города Европы?",
+      "archetype_code": "MDEO",
+      "priority": 2,
+      "keywords": [
+        "механизм",
+        "устройство",
+        "инструмент",
+        "деталь",
+        "компонент"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "MDEO.3",
+      "text": "Какие простые устройства используются?",
+      "archetype_code": "MDEO",
+      "priority": 2,
+      "keywords": [
+        "механизм",
+        "устройство",
+        "инструмент",
+        "деталь",
+        "компонент"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ADEO.1",
+      "text": "Какие процедуры и алгоритмы используются в Города Европы?",
+      "archetype_code": "ADEO",
+      "priority": 2,
+      "keywords": [
+        "алгоритм",
+        "процедура",
+        "метод",
+        "правило",
+        "протокол",
+        "инструкция"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ADEO.2",
+      "text": "Как планируется и управляется Города Европы?",
+      "archetype_code": "ADEO",
+      "priority": 2,
+      "keywords": [
+        "алгоритм",
+        "процедура",
+        "метод",
+        "правило",
+        "протокол",
+        "инструкция"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ADEO.3",
+      "text": "Какие процессы протекают в Города Европы?",
+      "archetype_code": "ADEO",
+      "priority": 2,
+      "keywords": [
+        "алгоритм",
+        "процедура",
+        "метод",
+        "правило",
+        "протокол",
+        "инструкция"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ADEO.4",
+      "text": "Какие методы управления применяются?",
+      "archetype_code": "ADEO",
+      "priority": 2,
+      "keywords": [
+        "алгоритм",
+        "процедура",
+        "метод",
+        "правило",
+        "протокол",
+        "инструкция"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ADEF.1",
+      "text": "Какая атмосфера характерна для Города Европы?",
+      "archetype_code": "ADEF",
+      "priority": 2,
+      "keywords": [
+        "мысль",
+        "идея",
+        "интуиция",
+        "вдохновение",
+        "творчество",
+        "озарение"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ADEF.2",
+      "text": "Каков 'дух' или идентичность Города Европы?",
+      "archetype_code": "ADEF",
+      "priority": 2,
+      "keywords": [
+        "мысль",
+        "идея",
+        "интуиция",
+        "вдохновение",
+        "творчество",
+        "озарение"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ADEF.3",
+      "text": "Какие неосязаемые качества определяют Города Европы?",
+      "archetype_code": "ADEF",
+      "priority": 2,
+      "keywords": [
+        "мысль",
+        "идея",
+        "интуиция",
+        "вдохновение",
+        "творчество",
+        "озарение"
+      ],
+      "expected_answer_type": "list",
+      "parent_id": null,
+      "depth": 1
+    },
+    {
+      "id": "ADEF.4",
+      "text": "Какое общее впечатление производит?",
+      "archetype_code": "ADEF",
+      "priority": 2,
+      "keywords": [
+        "мысль",
+        "идея",
+        "интуиция",
+        "вдохновение",
+        "творчество",
+        "озарение"
+      ],
+      "expected_answer_type": "text",
+      "parent_id": null,
+      "depth": 1
+    }
+  ],
+  "metadata": {
+    "total_questions": 68,
+    "depth": 1,
+    "domain": "урбанистика",
+    "language": "ru",
+    "archetypes_used": 15
+  }
+}
